@@ -1,0 +1,15 @@
+body{
+        background-image: url(https://vokrugsveta.ua/wp-content/uploads/2017/08/shutterstock_415540495.jpg);
+        background-size: 100%;
+        background-repeat: repeat-y;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+h2{
+    color: blueviolet;   
+}
+h3{
+    color: rgb(224, 43, 73);
+}
