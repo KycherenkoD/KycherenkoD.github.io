@@ -1,0 +1,18 @@
+body{
+        background-image: url(https://image.freepik.com/free-vector/modern-yellow-gradient-trendy-background_77417-1017.jpg);
+        background-size: 100%;
+        background-repeat: repeat-y;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+h2{
+    color: black;   
+}
+h3{
+    color: black;
+}
+a{
+        color:black;
+}
